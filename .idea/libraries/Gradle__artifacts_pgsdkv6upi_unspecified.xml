@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:pgsdkv6upi:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pgsdkv6upi/build/.transforms/50e7c6f3cd240bbf10921def18097135/pgsdkv6upi/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/pgsdkv6upi/build/.transforms/50e7c6f3cd240bbf10921def18097135/pgsdkv6upi/res" />
+      <root url="file://$PROJECT_DIR$/pgsdkv6upi/build/.transforms/50e7c6f3cd240bbf10921def18097135/pgsdkv6upi/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
