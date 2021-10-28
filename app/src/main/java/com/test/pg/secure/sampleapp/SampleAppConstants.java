@@ -3,11 +3,11 @@ package com.test.pg.secure.sampleapp;
 public class SampleAppConstants {
 
     //API_KEY is given by the Payment Gateway. Please Copy Paste Here.
-    public static final String PG_API_KEY = "81964ed0-8267-43d2-8691-7cd9c9b69a8c";
+    public static final String PG_API_KEY = "XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXXXX";
     //Enter HOSTNAME of the Payment Gateway
-    public static final String PG_PAYMENT_HOSTNAME = "https://pgbizbatchsync.omniware.in";
+    public static final String PG_PAYMENT_HOSTNAME = "XXXXXXXXXXXXXXXXXXXXXXXXXXX";
     //URL to Accept Payment Response After Payment. This needs to be done at the client's web server.
-    public static final String PG_RETURN_URL = "https://ecaas.aggrepaypayments.com/response_page_normal.php";
+    public static final String PG_RETURN_URL = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
     //Enter the Mode of Payment Here . Allowed Values are "LIVE" or "TEST".
     public static final String PG_MODE = "TEST";
     //PG_CURRENCY is given by the Payment Gateway. Only "INR" Allowed.
